@@ -1,0 +1,7 @@
+{
+  "name": "moltin-types",
+  "version": "3.11.0",
+  "description": "Types for @moltin/sdk",
+  "types": "src/index.d.ts",
+  "author": "callym"
+}
