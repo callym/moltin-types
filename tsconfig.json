@@ -10,8 +10,7 @@
     "strict": true,
     "noEmit": true
   },
-  "files": [
-    "index.d.ts",
-    "bootstrap-datepicker-tests.ts"
+  "include": [
+    "./src/*.ts"
   ]
 }
